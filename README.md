@@ -17,6 +17,8 @@ This project demonstrates how to deploy a trained machine learning model using *
 
 ## 📁 Project Structure
 
+```bash
+
 ml-model-deployment-streamlit/
 │
 ├── model/
@@ -27,7 +29,7 @@ ml-model-deployment-streamlit/
 ├── train_and_save_model.py # (Optional) Script to train and save model
 ├── data/sample_input.csv # Sample input format
 └── README.md # Project overview
-
+```
 ---
 
 ## 🧠 Model Used
