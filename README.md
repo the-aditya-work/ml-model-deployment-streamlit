@@ -46,47 +46,39 @@ ml-model-deployment-streamlit/
 ```bash
 git clone https://github.com/your-username/ml-model-deployment-streamlit.git
 cd ml-model-deployment-streamlit
-Install dependencies
 
-bash
-Copy
-Edit
+```
+## Install dependencies
+
+```bash
+
 pip install -r requirements.txt
-Run the app
 
-bash
-Copy
-Edit
+```
+
+## Run the app
+
+```bash
+
 streamlit run app.py
-🌐 Live Demo (Optional)
-Deploy your app on Streamlit Cloud and add the link here:
 
-arduino
-Copy
-Edit
-🔗 https://your-streamlit-app-link.streamlit.app
-📊 Example Output
-Predicted Species: Setosa
+```
 
-Probability Bar Chart
+##📦 Dependencies
 
-Feature Importance Graph (optional)
-
-📦 Dependencies
-txt
-Copy
-Edit
 streamlit
 scikit-learn
 numpy
 pandas
 Install with:
 
-bash
-Copy
-Edit
+```bash
+
 pip install -r requirements.txt
-🙌 Acknowledgements
+
+```
+## 🙌 Acknowledgements
+
 Streamlit Documentation
 
 Scikit-learn Library
